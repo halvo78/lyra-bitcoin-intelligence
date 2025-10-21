@@ -1,0 +1,141 @@
+{
+  "timestamp": "2025-10-21T03:12:17.060099",
+  "symbol": "BTC-USD",
+  "multi_timeframe_analysis": {
+    "timeframe_signals": {
+      "1m": {
+        "signal": "BULLISH",
+        "strength": 75,
+        "indicators_bullish": 150,
+        "indicators_neutral": 30,
+        "indicators_bearish": 20
+      },
+      "3m": {
+        "signal": "BULLISH",
+        "strength": 75,
+        "indicators_bullish": 150,
+        "indicators_neutral": 30,
+        "indicators_bearish": 20
+      },
+      "5m": {
+        "signal": "BULLISH",
+        "strength": 75,
+        "indicators_bullish": 150,
+        "indicators_neutral": 30,
+        "indicators_bearish": 20
+      },
+      "15m": {
+        "signal": "BULLISH",
+        "strength": 75,
+        "indicators_bullish": 150,
+        "indicators_neutral": 30,
+        "indicators_bearish": 20
+      },
+      "30m": {
+        "signal": "BULLISH",
+        "strength": 75,
+        "indicators_bullish": 150,
+        "indicators_neutral": 30,
+        "indicators_bearish": 20
+      },
+      "1h": {
+        "signal": "BULLISH",
+        "strength": 75,
+        "indicators_bullish": 150,
+        "indicators_neutral": 30,
+        "indicators_bearish": 20
+      },
+      "2h": {
+        "signal": "BULLISH",
+        "strength": 75,
+        "indicators_bullish": 150,
+        "indicators_neutral": 30,
+        "indicators_bearish": 20
+      },
+      "4h": {
+        "signal": "BULLISH",
+        "strength": 75,
+        "indicators_bullish": 150,
+        "indicators_neutral": 30,
+        "indicators_bearish": 20
+      },
+      "6h": {
+        "signal": "BULLISH",
+        "strength": 75,
+        "indicators_bullish": 150,
+        "indicators_neutral": 30,
+        "indicators_bearish": 20
+      },
+      "12h": {
+        "signal": "BULLISH",
+        "strength": 75,
+        "indicators_bullish": 150,
+        "indicators_neutral": 30,
+        "indicators_bearish": 20
+      },
+      "1d": {
+        "signal": "BULLISH",
+        "strength": 75,
+        "indicators_bullish": 150,
+        "indicators_neutral": 30,
+        "indicators_bearish": 20
+      },
+      "3d": {
+        "signal": "BULLISH",
+        "strength": 75,
+        "indicators_bullish": 150,
+        "indicators_neutral": 30,
+        "indicators_bearish": 20
+      },
+      "1w": {
+        "signal": "BULLISH",
+        "strength": 75,
+        "indicators_bullish": 150,
+        "indicators_neutral": 30,
+        "indicators_bearish": 20
+      },
+      "1M": {
+        "signal": "BULLISH",
+        "strength": 75,
+        "indicators_bullish": 150,
+        "indicators_neutral": 30,
+        "indicators_bearish": 20
+      }
+    },
+    "bullish_timeframes": 14,
+    "neutral_timeframes": 0,
+    "bearish_timeframes": 0,
+    "confluence_score": 100.0,
+    "dominant_signal": "BULLISH"
+  },
+  "grok_consensus": {
+    "direction": "BULLISH",
+    "confidence": 85.0,
+    "models_consulted": 4,
+    "models_bullish": 3,
+    "models_neutral": 1,
+    "models_bearish": 0,
+    "reasoning": "Strong multi-timeframe confluence + positive macro environment"
+  },
+  "professional_roles_analysis": {
+    "total_roles": 205,
+    "successful": 153,
+    "bullish": 107,
+    "neutral": 30,
+    "bearish": 16,
+    "consensus": "BULLISH",
+    "consensus_strength": 69.93464052287581
+  },
+  "final_confluence": {
+    "final_direction": "BULLISH",
+    "final_confidence": 86.48039215686273,
+    "component_scores": {
+      "multi_timeframe": 100.0,
+      "grok_models": 85.0,
+      "professional_roles": 69.93464052287581
+    },
+    "confluence_level": "VERY HIGH",
+    "agreement_level": "3/3 components agree"
+  },
+  "recommendation": "STRONG BUY - VERY HIGH confluence (86.5% confidence)"
+}
