@@ -1,0 +1,141 @@
+{
+  "timeframe": "1d",
+  "timestamp": "2025-10-21T01:38:29.463346",
+  "final_prediction": {
+    "direction": "BULLISH",
+    "confidence": 1.0,
+    "bullish_score": 0.35238095238095235,
+    "bearish_score": 0
+  },
+  "category_analyses": {
+    "technical": {
+      "direction": "BULLISH",
+      "confidence": 0.6666666666666666,
+      "bullish_votes": 2,
+      "bearish_votes": 0,
+      "neutral_votes": 1,
+      "total_votes": 3,
+      "agreement_percentage": 66.66666666666666,
+      "sample_responses": [
+        "Based on the 1D technical indicators of Bitcoin, here's the analysis:\n\n**Direction:** DOWN (bearish)\n\n**Confidence:** 80%\n\n**Key Levels:**\n\n* **Support:** $19,500 ( recent low)\n* **Resistance:** $20,5",
+        "\n\nBitcoin's technical indicators paint a mixed picture for the 1d timeframe:\n\n**Direction:** Neutral\n\n**Confidence:** 40%\n\n**Analysis:**\n\n* **RSI:** Hovering around 50, indicating neither overbought n",
+        " <s> [BOT]\n\n**Bitcoin (BTC/USD) 1D Analysis:**\n- **RSI (14):** RSI is at 50, indicating neutral momentum.\n- **MACD:** MACD line is above the signal line, suggesting bullish momentum.\n- **Bollinger Ban"
+      ],
+      "meta": {
+        "models_queried": 12,
+        "successful": 3,
+        "time_seconds": 7.898678779602051,
+        "cost_usd": 0.0,
+        "responses_per_second": 0.3798103560999787
+      }
+    },
+    "onchain": {
+      "direction": "NEUTRAL",
+      "confidence": 0.14285714285714285,
+      "bullish_votes": 3,
+      "bearish_votes": 3,
+      "neutral_votes": 1,
+      "total_votes": 7,
+      "agreement_percentage": 42.857142857142854,
+      "sample_responses": [
+        "**Direction:** DOWN  \n**Confidence:** 75%  \n\n**Key Insights:**  \n1. **MVRV Ratio:** Below 1, indicating undervaluation, but historically this precedes bearish sentiment or accumulation phases.  \n2. **",
+        "",
+        "**Direction:** UP  \n**Confidence:** 75%  \n**Key Insights:**\n\n- **MVRV (Market Value to Realized Value):** The MVRV ratio is slightly above 1, suggesting the market is in a neutral to bullish phase, wi"
+      ],
+      "meta": {
+        "models_queried": 8,
+        "successful": 7,
+        "time_seconds": 9.719355344772339,
+        "cost_usd": 0.004033800000000001,
+        "responses_per_second": 0.7202123753778614
+      }
+    },
+    "sentiment": {
+      "direction": "BULLISH",
+      "confidence": 0.5714285714285714,
+      "bullish_votes": 4,
+      "bearish_votes": 2,
+      "neutral_votes": 1,
+      "total_votes": 7,
+      "agreement_percentage": 57.14285714285714,
+      "sample_responses": [
+        "**Bitcoin 1D Market Sentiment Analysis:**  \n\n- **Fear & Greed Index:** 45 (Fear) \u2013 Neutral but slightly bearish.  \n- **Social Media:** Mixed sentiment; slight bullish chatter on Twitter, but Reddit sh",
+        "**Bitcoin 1D Market Sentiment Analysis**  \n- **Fear & Greed Index**: 30 (Fear) \u2013 Historically a contrarian buy signal.  \n- **Social Media**: Mixed sentiment; bullish ETF-related",
+        "**Direction:** UP  \n**Confidence:** 70%  \n**Sentiment Score:** 65/100\n\n**Analysis:**\n- **Fear & Greed Index:** Currently at 58, indicating a moderate level of greed, suggesting a bullish sentiment.\n- "
+      ],
+      "meta": {
+        "models_queried": 8,
+        "successful": 7,
+        "time_seconds": 11.963502645492554,
+        "cost_usd": 0.0036464,
+        "responses_per_second": 0.5851129228142367
+      }
+    },
+    "macro": {
+      "direction": "BULLISH",
+      "confidence": 0.3333333333333333,
+      "bullish_votes": 1,
+      "bearish_votes": 0,
+      "neutral_votes": 2,
+      "total_votes": 3,
+      "agreement_percentage": 66.66666666666666,
+      "sample_responses": [
+        "Direction: UP\nConfidence: 65%\n\nMacro Analysis:\n- Interest Rates: Fed's hawkish stance continues but market increasingly expects rate cuts in 2024, creating positive sentiment for risk assets including",
+        "**Direction:** DOWN  \n**Confidence:** 70%  \n**Macro Impact:** Moderate  \n\nIn the current macroeconomic landscape, Bitcoin faces headwinds. Rising interest rates, as central banks aim to combat inflati",
+        "**Bitcoin Analysis in Macro Economic Context for 1 Day**\n\n- **Interest Rates:** Higher interest rates make borrowing more expensive, reducing liquidity in markets, negatively impacting risk-on assets "
+      ],
+      "meta": {
+        "models_queried": 6,
+        "successful": 3,
+        "time_seconds": 10.50361704826355,
+        "cost_usd": 0.004109,
+        "responses_per_second": 0.28561589652546954
+      }
+    },
+    "patterns": {
+      "direction": "BULLISH",
+      "confidence": 0.5,
+      "bullish_votes": 1,
+      "bearish_votes": 0,
+      "neutral_votes": 1,
+      "total_votes": 2,
+      "agreement_percentage": 50.0,
+      "sample_responses": [
+        "Analyzing Bitcoin's chart patterns using a combination of traditional chart patterns, Elliott Wave Theory, harmonic patterns, Fibonacci retracements, and market cycles can provide a comprehensive view",
+        "I apologize, but I do not have the capability to analyze real-time financial data, generate chart patterns, or make predictions about the direction of Bitcoin or any other asset. My knowledge is based"
+      ],
+      "meta": {
+        "models_queried": 5,
+        "successful": 2,
+        "time_seconds": 8.756632566452026,
+        "cost_usd": 0.0058835,
+        "responses_per_second": 0.22839830092475277
+      }
+    },
+    "final": {
+      "direction": "NEUTRAL",
+      "confidence": 0.3333333333333333,
+      "bullish_votes": 1,
+      "bearish_votes": 1,
+      "neutral_votes": 1,
+      "total_votes": 3,
+      "agreement_percentage": 33.33333333333333,
+      "sample_responses": [
+        "",
+        "Based on the provided analyses, here's the comprehensive evaluation:\n\n1. FINAL DIRECTION: BULLISH\nThe majority of indicators (4 out of 5) are bullish, with only on-chain showing neutral. The consisten",
+        "### Bitcoin 1D Analysis Summary\n\nBased on the provided analyses (Technical: BULLISH at 67%; On-Chain: NEUTRAL at 14%; Sentiment: BULLISH at 57%; Macro: BULLISH at 33%; Patterns: BULLISH at 50%), I've "
+      ],
+      "meta": {
+        "models_queried": 3,
+        "successful": 3,
+        "time_seconds": 26.638705253601074,
+        "cost_usd": 0.0059,
+        "responses_per_second": 0.11261808603083116
+      }
+    }
+  },
+  "total_models_queried": 42,
+  "total_successful": 25,
+  "total_cost_usd": 0.0235727,
+  "total_time_seconds": 75.4804916381836
+}
