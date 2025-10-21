@@ -1,0 +1,104 @@
+{
+  "timestamp": "2025-10-21T01:19:13.689127",
+  "current_price": 69160.8617594228,
+  "analysis_time": 28.413201093673706,
+  "technical_indicators": {
+    "sma_20": 65238.94412998973,
+    "sma_50": 64833.295268629234,
+    "sma_200": 65149.38430733586,
+    "ema_12": 65334.19370380432,
+    "ema_26": 65227.43740822207,
+    "macd": 106.75629558225046,
+    "macd_signal": 138.45711443596454,
+    "macd_histogram": -31.700818853714082,
+    "rsi": 58.6049788151876,
+    "stoch_k": 104.17176748499632,
+    "bb_upper": 70707.56142264984,
+    "bb_middle": 65238.94412998973,
+    "bb_lower": 59770.32683732961,
+    "bb_width": 16.76488596064278,
+    "atr": 4900.12393497996,
+    "obv": -35771344.873046115,
+    "vwap": 65104.55924872353,
+    "adx": 25,
+    "cci": 0,
+    "williams_r": -50,
+    "current_price": 69160.8617594228,
+    "price_change_1h": 12.030554845293938,
+    "price_change_24h": 5.1716162881494165,
+    "price_change_7d": 3.225233953280182
+  },
+  "onchain_metrics": {
+    "mvrv_ratio": 2.1,
+    "nvt_ratio": 45.2,
+    "sopr": 1.02,
+    "exchange_netflow": -1500,
+    "whale_transactions": 127,
+    "active_addresses": 850000,
+    "hash_ribbons": "bullish",
+    "puell_multiple": 1.8,
+    "reserve_risk": 0.003,
+    "utxo_age_1y+": 0.68,
+    "hodler_net_position": "accumulating",
+    "realized_cap": 450000000000
+  },
+  "market_sentiment": {
+    "fear_greed_index": 62,
+    "twitter_sentiment": 0.65,
+    "reddit_sentiment": 0.58,
+    "news_sentiment": 0.42,
+    "google_trends": 78,
+    "funding_rate": 0.01,
+    "open_interest": 12500000000,
+    "long_short_ratio": 1.35,
+    "overall_sentiment": "moderately_bullish"
+  },
+  "predictions": {
+    "1h": {
+      "direction": "UP",
+      "confidence": 65.0,
+      "target_low": 69500.0,
+      "target_high": 71000.0,
+      "models_agreed": 1,
+      "total_models": 1
+    },
+    "4h": {
+      "direction": "UP",
+      "confidence": 65.0,
+      "target_low": 70000.0,
+      "target_high": 71500.0,
+      "models_agreed": 1,
+      "total_models": 1
+    },
+    "1d": {
+      "direction": "UP",
+      "confidence": 65.0,
+      "target_low": 70000.0,
+      "target_high": 72000.0,
+      "models_agreed": 1,
+      "total_models": 1
+    },
+    "3d": {
+      "direction": "**UP",
+      "confidence": 75.0,
+      "target_low": 71000.0,
+      "target_high": 74000.0,
+      "models_agreed": 1,
+      "total_models": 1
+    },
+    "7d": {
+      "direction": "UP",
+      "confidence": 70.0,
+      "target_low": 71500.0,
+      "target_high": 75000.0,
+      "models_agreed": 1,
+      "total_models": 1
+    }
+  },
+  "overall_prediction": {
+    "direction": "BULLISH",
+    "confidence": 53.0,
+    "score": 53.0,
+    "recommendation": "HOLD"
+  }
+}
